@@ -3,7 +3,7 @@ Simple system for implementing !ready and !unready
 
 # Install
 Install Metamod and Cssharp <br/>
-Simply drop the folder into game/csgo folder
+Simply drop the folder into game folder
 
 # Usage
 Players use !ready to ready up<br/>
